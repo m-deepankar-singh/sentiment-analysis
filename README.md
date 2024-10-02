@@ -67,7 +67,7 @@ In this demo, you can see how the app analyzes a video, providing sentiment anal
 
 ## Note
 
-This application requires an active internet connection to communicate with the Gemini AI API for video analysis.
+This application requires an API key to communicate with the Gemini AI for video analysis.
 
 
 ## Acknowledgements
