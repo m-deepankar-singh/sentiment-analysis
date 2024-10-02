@@ -1,14 +1,12 @@
-# Video Sentiment Analysis
+# Advanced Video Sentiment Analysis
 
-This project is a video sentiment analysis tool that uses the Gemini AI API to analyze the emotional content of uploaded videos. It provides insights such as overall sentiment, key emotional moments, sentiment timeline, and transcription.
+This project is an advanced video sentiment analysis tool that uses the Gemini AI API to analyze the emotional content of uploaded videos. It provides insights such as overall sentiment, key emotional moments, sentiment timeline, and transcription.
 
 ## Demo
 
-Check out the video demonstration of the app in action:
+Click the image below to watch the demo video:
 
-[![Video Demo]](https://streamable.com/yi9hof)
-
-[Watch the full demo video](https://streamable.com/yi9hof)
+[![Video Demo](https://cdn-cf-east.streamable.com/image/yi9hof.jpg?Expires=1700687100&Signature=fpxWZJWXjUYSM7Kj3y9VWF4i5C0wQEjX2B9oYzYnbz~OZSdcAo9cqhg8SZKPsHRjqLsTl1GN56sFCKqcWWUXpsDkRLPVulj~nTVX5rkDuZi9uajVjufLRdgVdZWPvOg6m6EFJ4JO1wmdtwdCqcGLRj1B4OAmkNX3EIXZ79HWi8NRGS1BHqh5iZCWYe~77Ff6K3Yim~C5rvJCMq7rAiHKjWFh92jLjfR6L8X5i7zUAr4I-8kufC8HEwkOWSbM3NPVZ~5Cm~lYR9SzNsVmfN3wPHPpHxLDz1VlVT-kUJr7sW5EQvdBLhfSFBOsUQOIMGQZGXA1tBqAUJ7CIjw6zeMVcw__&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ)](https://streamable.com/yi9hof)
 
 In this demo, you can see how the app analyzes a video, providing sentiment analysis, emotional moments, and various visualizations of the results.
 
