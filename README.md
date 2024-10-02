@@ -6,7 +6,7 @@ This project is a video sentiment analysis tool that uses the Gemini AI API to a
 
 Check out the video demonstration of the app in action:
 
-[![Video Demo](https://i.imgur.com/7jVyeIy.png)](https://streamable.com/yi9hof)
+[![Video Demo]](https://streamable.com/yi9hof)
 
 [Watch the full demo video](https://streamable.com/yi9hof)
 
