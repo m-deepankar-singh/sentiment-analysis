@@ -1,10 +1,16 @@
 # Video Sentiment Analysis
 
-This project is an advanced video sentiment analysis tool that uses the Gemini AI API to analyze the emotional content of uploaded videos. It provides insights such as overall sentiment, key emotional moments, sentiment timeline, and transcription.
+This project is a video sentiment analysis tool that uses the Gemini AI API to analyze the emotional content of uploaded videos. It provides insights such as overall sentiment, key emotional moments, sentiment timeline, and transcription.
 
 ## Demo
 
-(https://streamable.com/yi9hof)
+Check out the video demonstration of the app in action:
+
+[![Video Demo](https://i.imgur.com/7jVyeIy.png)](https://streamable.com/yi9hof)
+
+[Watch the full demo video](https://streamable.com/yi9hof)
+
+In this demo, you can see how the app analyzes a video, providing sentiment analysis, emotional moments, and various visualizations of the results.
 
 ## Features
 
@@ -16,6 +22,8 @@ This project is an advanced video sentiment analysis tool that uses the Gemini A
 - Emotion distribution pie chart
 - Transcription of important dialogue
 - Interactive navigation through emotional moments
+
+[Rest of the README content remains the same]
 
 ## Installation
 
